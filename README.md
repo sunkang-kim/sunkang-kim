@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![사진2](https://user-images.githubusercontent.com/104435395/230518630-fd2566e8-7954-440a-880b-ad9e9b9b6444.PNG)
 
 링크 테스트 | 사이트링크
